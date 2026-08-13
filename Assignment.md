@@ -1,15 +1,42 @@
+<!-- TITLE_PAGE -->
+
 # Statistics for Strategic Business Decision-Making
+
+### Written Assignment
 
 **Degree:** Computer Science and Digitisation
 **Module:** Statistics for Data Analysis
-**Assignment Title:** Statistics for Strategic Business Decision-Making
 **Assignment Type:** Written assignment
 **Word Limit:** 2000 words (+/- 200)
 **Weighting:** 100%
 **Issue Date:** 18/06/2026
 **Submission Date:** 14/08/2026
 
----
+**Student Name:** ______________________________
+**Student ID:** ________________________________
+**Tutor:** _____________________________________
+
+<!-- END_TITLE_PAGE -->
+
+<!-- TOC_PAGE -->
+
+## Table of Contents
+
+| Section | Page |
+|---|---:|
+| [a. Introduction: Why Demographic Trends Matter for Strategic Business Decision-Making](#a-introduction-why-demographic-trends-matter-for-strategic-business-decision-making) | 3 |
+| [b. Analysing the Dataset Using Statistical Methods](#b-analysing-the-dataset-using-statistical-methods) | 3 |
+| [c. Distribution of Education and Agricultural Employment](#c-distribution-of-education-and-agricultural-employment) | 4 |
+| [d. Distribution of Key Economic Variables and Fertility](#d-distribution-of-key-economic-variables-and-fertility) | 4 |
+| [e. Standardising Variables to a Comparable Scale](#e-standardising-variables-to-a-comparable-scale) | 5 |
+| [f. Exploring Relationships Between Fertility, Education, Income and Agriculture](#f-exploring-relationships-between-fertility-education-income-and-agriculture) | 5 |
+| [g. Potential Causality Between Fertility and Socioeconomic Indicators](#g-potential-causality-between-fertility-and-socioeconomic-indicators) | 6 |
+| [h. Discussion: Fertility and Socioeconomic Indicators — What Business Should Take Away](#h-discussion-fertility-and-socioeconomic-indicators--what-business-should-take-away) | 6 |
+| [References](#references) | 7 |
+
+*In the Word (.docx) version this table is a live field: right-click and choose "Update Field" (or press F9) to refresh the page numbers automatically.*
+
+<!-- END_TOC_PAGE -->
 
 ## a. Introduction: Why Demographic Trends Matter for Strategic Business Decision-Making
 

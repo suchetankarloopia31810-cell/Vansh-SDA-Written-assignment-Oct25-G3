@@ -1,15 +1,41 @@
+
 STATISTICS FOR STRATEGIC BUSINESS DECISION-MAKING
 =================================================
 
+
+Written Assignment
+
 Degree: Computer Science and Digitisation
 Module: Statistics for Data Analysis
-Assignment Title: Statistics for Strategic Business Decision-Making
 Assignment Type: Written assignment
 Word Limit: 2000 words (+/- 200)
 Weighting: 100%
 Issue Date: 18/06/2026
 Submission Date: 14/08/2026
 
+Student Name: ______________________________
+Student ID: ________________________________
+Tutor: _____________________________________
+
+
+
+
+Table of Contents
+-----------------
+
+| Section | Page |
+|---|---:|
+| a. Introduction: Why Demographic Trends Matter for Strategic Business Decision-Making | 3 |
+| b. Analysing the Dataset Using Statistical Methods | 3 |
+| c. Distribution of Education and Agricultural Employment | 4 |
+| d. Distribution of Key Economic Variables and Fertility | 4 |
+| e. Standardising Variables to a Comparable Scale | 5 |
+| f. Exploring Relationships Between Fertility, Education, Income and Agriculture | 5 |
+| g. Potential Causality Between Fertility and Socioeconomic Indicators | 6 |
+| h. Discussion: Fertility and Socioeconomic Indicators — What Business Should Take Away | 6 |
+| References | 7 |
+
+In the Word (.docx) version this table is a live field: right-click and choose "Update Field" (or press F9) to refresh the page numbers automatically.
 
 
 
